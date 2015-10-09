@@ -1,2 +1,4 @@
 # O2DES.Net
 Object-Oriented Discrete Event Simulation in C# .Net
+
+Object–Oriented DES (O²DES) is an effort to implement the object oriented paradigm in the scope of ease the development of discrete event simulation models in both education as well as industrial settings. In particular, O²DES offers several functionalities which support the integration of the tool with optimization techniques, thus making it easier to the students to understand the concept of simulation–optimization. It also supports the application of different variance reduction techniques such as budget allocation and time dilation. In order to do so, the provided toolkit exploits the C# language and the .NET Framework and it guarantees the efficient generation of DES models, as well as the effectiveness of the developed models in being integrated with sampling solutions.
